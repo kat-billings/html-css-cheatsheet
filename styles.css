@@ -1,0 +1,42 @@
+html {
+	background-color: lightblue;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.mono {
+	font-family: Courier, monospace;
+	background-color: Silver;
+}
+table {
+	width: 600px;
+}
+h1 {
+	text-align: center;
+	background-color: MintCream;
+	color: LightBlue;
+	font-size: 48px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+table {
+	background-color: MintCream;
+	border: 3px solid LightBlue;
+	margin: 12px;
+	color: CadetBlue;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid LightBlue;
+	padding: 3px;
+}
+th {
+	color: LightBlue;
+	font-size: 18px;
+	padding: 6px;
+}
+tr:hover {
+	background-color: CadetBlue;
+	color: white;
+}
