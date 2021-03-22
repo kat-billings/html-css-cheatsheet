@@ -1,2 +1,2 @@
 # html-css-cheatsheet
-A project created for a Codecademy course.
+Hello! This is a project I created for a Codecademy course.
